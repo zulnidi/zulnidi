@@ -1,4 +1,4 @@
-# Hola, soy Zullie Nicole Díaz López 👋
+# Hola, soy Zullie  Díaz  👋
 
 Estudiante de **Ingeniería de Software** (Uniempresarial) y desarrolladora **MERN**. Me gusta construir APIs y aplicaciones web de punta a punta, y aprender haciendo proyectos reales.
 
