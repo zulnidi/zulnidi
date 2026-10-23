@@ -2,7 +2,7 @@
 
 Estudiante de **Ingeniería de Software** (Uniempresarial) y desarrolladora **MERN**. Me gusta construir APIs y aplicaciones web de punta a punta, y aprender haciendo proyectos reales.
 
-📍 Guasca, Cundinamarca · ✉️ zdiaz@uniempresarial.edu.co
+📍 Bogota · ✉️ zdiaz@uniempresarial.edu.co
 
 ## 🛠️ Tecnologías
 
