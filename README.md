@@ -33,8 +33,8 @@ También: Angular, Java y Spring Boot, Firebase Auth. Intereses: arquitectura, a
 | 2-1 | [**al_ritmo_mern**](https://github.com/zulnidi/al_ritmo_mern) | Full stack (MERN) | API en capas + cliente React reutilizable, 53 pruebas |
 | 2-2 | [**todo_app_react**](https://github.com/zulnidi/todo_app_react) | Front (React) | Dominio puro, reducer con deshacer, 30 pruebas |
 | 2-3 | [**react_notes**](https://github.com/zulnidi/react_notes) | Front (React + TS) | TypeScript estricto, genéricos, 24 pruebas |
-| 3-1 | [**GestionTiempoBack**](https://github.com/zulnidi/GestionTiempoBack) | Back (Django + PostgreSQL) | Repositorios y servicios, secretos por entorno |
-| 3-2 | [**backend_cloud_native**](https://github.com/zulnidi/backend_cloud_native) | Back (Django + Firebase + Mongo) | Autenticación con Firebase, MongoDB Atlas |
+| 3-1 | [**GestionTiempoBack**](https://github.com/zulnidi/GestionTiempoBack) + [**GestionTiempoFront**](https://github.com/zulnidi/GestionTiempoFront) | Full stack (Django + React) | JWT, permisos por rol, 44 + 32 pruebas |
+| 3-2 | [**backend_cloud_native**](https://github.com/zulnidi/backend_cloud_native) (EcoRed) | Full stack (Django + Mongo + Firebase + React) | Puertos y adaptadores, 71 + 30 pruebas |
 
 ## 💼 Experiencia
 
